@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bangdevops/siswabaru/issues"
   },
-  "homepage": "https://github.com/bangdevops/siswabaru#readme"
+  "homepage": "https://github.com/bangdevops/siswabaru#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
