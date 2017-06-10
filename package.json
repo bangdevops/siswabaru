@@ -1,0 +1,19 @@
+{
+  "name": "siswabaru",
+  "version": "0.0.1",
+  "description": "Aplikasi penerimaan siswa baru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangdevops/siswabaru.git"
+  },
+  "author": "Bang Devops <bangdevops@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bangdevops/siswabaru/issues"
+  },
+  "homepage": "https://github.com/bangdevops/siswabaru#readme"
+}
